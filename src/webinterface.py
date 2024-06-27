@@ -6,7 +6,7 @@ import urllib.request
 #cap = cv2.VideoCapture(0)
 font = cv2.FONT_HERSHEY_PLAIN
  
-url='http://192.168.1.61/'
+url='http://192.168.178.140/'
 cv2.namedWindow("live transmission", cv2.WINDOW_AUTOSIZE)
  
 prev=""
